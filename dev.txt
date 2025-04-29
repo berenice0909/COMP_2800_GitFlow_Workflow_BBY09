@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is dev.
+=======
+This is dev. 
+>>>>>>> 800ad5a (Initial Commit on dev.)
